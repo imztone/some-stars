@@ -1,6 +1,9 @@
 <div align="center">
 
-# Stars
+# Some Stars
+
+<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="800"  height="3">
+</div><br>
 
 ## Table of Contents
 
@@ -156,8 +159,6 @@
 
 *   [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
 
-***
-
 ## C++
 
 *   [albertlauncher/albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
@@ -183,8 +184,6 @@
 *   [Light-City/CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) - C++那些事
 
 *   [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
-
-***
 
 ## Python
 
@@ -300,8 +299,6 @@
 
 *   [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 
-***
-
 ## Rust
 
 *   [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -356,8 +353,6 @@
 
 *   [huacnlee/autocorrect](https://github.com/huacnlee/autocorrect) - A linter and formatter to help you to improve copywriting, correct spaces, words, and punctuations between CJK (Chinese, Japanese, Korean).
 
-***
-
 ## Vue
 
 *   [CareyWang/sub-web](https://github.com/CareyWang/sub-web) -
@@ -366,13 +361,9 @@
 
 *   [leon-kfd/Dashboard](https://github.com/leon-kfd/Dashboard) - Custom your personal browser start page from some configurable components.
 
-***
-
 ## Ruby
 
 *   [stringer-rss/stringer](https://github.com/stringer-rss/stringer) - A self-hosted, anti-social RSS reader.
-
-***
 
 ## TypeScript
 
@@ -460,8 +451,6 @@
 
 *   [7kms/react-illustration-series](https://github.com/7kms/react-illustration-series) - 图解react源码, 用大量配图的方式, 致力于将react原理表述清楚.
 
-***
-
 ## Go
 
 *   [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
@@ -509,8 +498,6 @@
 *   [HDT3213/godis](https://github.com/HDT3213/godis) - A Golang implemented Redis Server and Cluster. Go 语言实现的 Redis 服务器和分布式集群
 
 *   [yeasy/docker\_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker\&Container technologies, with real DevOps practice!
-
-***
 
 ## JavaScript
 
@@ -588,8 +575,6 @@
 
 *   [pivovarit/articles](https://github.com/pivovarit/articles) - Code snippets for articles posted at 4comprehension.com
 
-***
-
 ## Makefile
 
 *   [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
@@ -597,8 +582,6 @@
 *   [shytikov/pragmasevka](https://github.com/shytikov/pragmasevka) - Pragmata Pro doppelgänger made of Iosevka SS08
 
 *   [chaseSpace/k8s-tutorial-cn](https://github.com/chaseSpace/k8s-tutorial-cn) - The most(might be) detailed Kubernetes tutorials in Chinese.  全网（可能）最详细的Kubernetes中文教程。
-
-***
 
 ## C\#
 
@@ -620,8 +603,6 @@
 
 *   [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
 
-***
-
 ## PowerShell
 
 *   [empty-233/tencent-sandbox](https://github.com/empty-233/tencent-sandbox) - Windows sandbox 腾讯全家桶沙盒配置
@@ -629,8 +610,6 @@
 *   [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
 
 *   [matt9ucci/DockerCompletion](https://github.com/matt9ucci/DockerCompletion) - Docker command completion for PowerShell.
-
-***
 
 ## C
 
@@ -658,8 +637,6 @@
 
 *   [EZLippi/Tinyhttpd](https://github.com/EZLippi/Tinyhttpd) - Tinyhttpd 是J. David Blackstone在1999年写的一个不到 500 行的超轻量型 Http Server，用来学习非常不错，可以帮助我们真正理解服务器程序的本质。官网:http://tinyhttpd.sourceforge.net
 
-***
-
 ## Dart
 
 *   [mulaRahul/keyviz](https://github.com/mulaRahul/keyviz) - Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ and 🖱️ mouse actions in real-time.
@@ -667,8 +644,6 @@
 *   [ente-io/ente](https://github.com/ente-io/ente) - End-to-end encrypted, FOSS cloud for Photos, 2FA secrets and more!
 
 *   [hiddify/hiddify-app](https://github.com/hiddify/hiddify-app) - Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.
-
-***
 
 ## Jupyter Notebook
 
@@ -688,13 +663,9 @@
 
 *   [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
 
-***
-
 ## Emacs Lisp
 
 *   [rexim/gruber-darker-theme](https://github.com/rexim/gruber-darker-theme) - Gruber Darker color theme for Emacs 24+
-
-***
 
 ## Shell
 
@@ -737,8 +708,6 @@
 *   [prasanthrangan/hyprdots](https://github.com/prasanthrangan/hyprdots) - // Aesthetic, dynamic and minimal dots for Arch hyprland
 
 *   [cfenollosa/bashblog](https://github.com/cfenollosa/bashblog) - A single Bash script to create blogs. Download, run, write, done!
-
-***
 
 ## Java
 
@@ -808,8 +777,6 @@
 
 *   [Vedenin/useful-java-links](https://github.com/Vedenin/useful-java-links) - A list of useful Java frameworks, libraries, software and hello worlds examples
 
-***
-
 ## HTML
 
 *   [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南/英语学习教程。
@@ -830,8 +797,6 @@
 
 *   [xxlllq/system\_architect](https://github.com/xxlllq/system_architect) - :100: 2025年系统架构设计师（软考高级）备考资料。
 
-***
-
 ## Markdown
 
 *   [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
@@ -842,13 +807,9 @@
 
 *   [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
 
-***
-
 ## TeX
 
 *   [foxsen/archbase](https://github.com/foxsen/archbase) - 教科书《计算机体系结构基础》（胡伟武等，第三版）的开源版本
-
-***
 
 ## CSS
 
@@ -870,8 +831,6 @@
 
 *   [hehonghui/awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks) - 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新
 
-***
-
 ## Lua
 
 *   [ThePrimeagen/dev](https://github.com/ThePrimeagen/dev) - my next gen build for starting my system
@@ -890,33 +849,23 @@
 
 *   [Mintimate/oh-my-rime](https://github.com/Mintimate/oh-my-rime) - The Simple Config Template Of Rime By Mintimate.  QQ Chat-Group: 703260572
 
-***
-
 ## Astro
 
 *   [thinkininfinity/astro-theme-mia](https://github.com/thinkininfinity/astro-theme-mia) - A minimalist, powerful astro theme with integrated rough-notation for engaging, informative content.
 
 *   [moeyua/astro-theme-typography](https://github.com/moeyua/astro-theme-typography) - Rediscover the beauty of typography.
 
-***
-
 ## CMake
 
 *   [shinchiro/mpv-winbuild-cmake](https://github.com/shinchiro/mpv-winbuild-cmake) -  CMake-based MinGW-w64 Cross Toolchain
-
-***
 
 ## Swift
 
 *   [Lakr233/FixTim](https://github.com/Lakr233/FixTim) - Fix every runtime bug on macOS.
 
-***
-
 ## Perl
 
 *   [ThePrimeagen/.dotfiles](https://github.com/ThePrimeagen/.dotfiles) -
-
-***
 
 ## Kotlin
 
@@ -928,15 +877,11 @@
 
 *   [gradle/kotlin-dsl-samples](https://github.com/gradle/kotlin-dsl-samples) - Samples builds using the Gradle Kotlin DSL
 
-***
-
 ## Nix
 
 *   [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 
 *   [ryan4yin/nix-darwin-kickstarter](https://github.com/ryan4yin/nix-darwin-kickstarter) - macOS as Code! A beginner-friendly nix-darwin + home-manager + flakes startup configuration. 一份易于理解的 nix-darwin 初始配置模板，专为新手制作.
-
-***
 
 ## PHP
 
@@ -944,13 +889,9 @@
 
 *   [guanguans/favorite-link](https://github.com/guanguans/favorite-link) - ❤️ 每天收集喜欢的开源项目。
 
-***
-
 ## OpenSCAD
 
 *   [adereth/dactyl-keyboard](https://github.com/adereth/dactyl-keyboard) - Parameterized ergonomic keyboard
-
-***
 
 ## Clojure
 
@@ -958,31 +899,21 @@
 
 *   [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 
-***
-
 ## Scala
 
 *   [ButTaiwan/evilsung](https://github.com/ButTaiwan/evilsung) - A mincho font contains KMT, PROC and Singapore simplified Chinese.
-
-***
 
 ## Rich Text Format
 
 *   [phodal/github](https://github.com/phodal/github) - GitHub 漫游指南- a Chinese ebook on how to build a good project on Github. Explore the users' behavior. Find some thing interest.
 
-***
-
 ## SCSS
 
 *   [AboutRSS/ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) - A list of RSS related stuff: tools, services, communities and tutorials, etc.
 
-***
-
 ## Vim Script
 
 *   [ryanoasis/vim-devicons](https://github.com/ryanoasis/vim-devicons) - Adds file type icons to Vim plugins such as: NERDTree, vim-airline, CtrlP, unite, Denite, lightline, vim-startify and many more
-
-***
 
 ## Erlang
 
