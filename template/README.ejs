@@ -1,16 +1,100 @@
-<div align="center">
+<!DOCTYPE html>
+<html lang="en">
 
-# Some Stars
+<head>
+    <meta charset="UTF-8">
+    <title>Some Stars</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+            line-height: 1.6;
+        }
 
-<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="800"  height="3">
-</div><br>
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+        }
 
+        .divider {
+            margin: 20px 0;
+        }
 
-## Table of Contents
+        h1 {
+            color: #2c3e50;
+            font-size: 2.5em;
+        }
 
-<% for(let [language, repositories] of stars) { %>
-## <%= language %>
-  <% for(let repo of repositories) { %>
-- [<%= repo.full_name %>](<%= repo.html_url %>) - <%= repo.description %>
-  <% } %>
-<% } %>
+        h2 {
+            color: #34495e;
+            border-bottom: 2px solid #3498db;
+            padding-bottom: 5px;
+            margin-top: 40px;
+        }
+
+        .toc {
+            background: #f8f9fa;
+            padding: 15px;
+            border-radius: 5px;
+            margin-bottom: 30px;
+        }
+
+        .repo-list {
+            margin-left: 20px;
+        }
+
+        .repo-item {
+            margin: 15px 0;
+            padding: 10px;
+            transition: background-color 0.3s;
+        }
+
+        .repo-item:hover {
+            background-color: #f5f6f5;
+            border-radius: 3px;
+        }
+
+        a {
+            color: #2980b9;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+            color: #3498db;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="header">
+        <h1>Some Stars</h1>
+        <img class="divider"
+            src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966"
+            width="800" height="3">
+    </div>
+
+    <div class="toc">
+        <h2>Table of Contents</h2>
+    </div>
+
+    <% for(let [language, repositories] of stars) { %>
+        <h2>
+            <%= language %>
+        </h2>
+        <div class="repo-list">
+            <% for(let repo of repositories) { %>
+                <div class="repo-item">
+                    - <a href="<%= repo.html_url %>" target="_blank">
+                        <%= repo.full_name %>
+                    </a>
+                    - <%= repo.description || 'No description available' %>
+                </div>
+                <% } %>
+        </div>
+        <% } %>
+</body>
+
+</html>
